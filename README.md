@@ -1,3 +1,2 @@
-# phaser-platformer-boilerplate
-
-Making a platformer? Start with this!
+# 1HGJ31 - "Waiting Room"
+http://onehourgamejam.com/
